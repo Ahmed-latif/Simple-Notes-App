@@ -1,3 +1,3 @@
 # Simple Notes App
 
-Simple Flutter notes project.
+A simple notes app built in flutter for cross-function.
